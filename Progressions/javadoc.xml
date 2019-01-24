@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="protected" author="true" classpath="target/test-classes;C:\Users\User\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.drbhagwat.Progressions" source="10" sourcepath="src/main/java;src/test/java" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
